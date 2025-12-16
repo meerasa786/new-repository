@@ -1,4 +1,2 @@
 hello 
 guys 
-welcome to the 
-new repo
